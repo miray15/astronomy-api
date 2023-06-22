@@ -1,2 +1,2 @@
 json.city location.city
-json.state location.state
+json.state location.state 
